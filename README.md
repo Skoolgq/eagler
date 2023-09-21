@@ -1,4 +1,4 @@
-# Ealer
+# Eagler
 Archive of eagler for Skool.
 
 ## DMCAs
